@@ -1,5 +1,5 @@
 ## Hey Guys!
-Eu sou Laryssa Tavares 
+Eu sou **Laryssa Tavares** 
 
 - Sou estudante na [Alura](https://www.alura.com.br)
 - Estou desenvolvendo minhas habilidades na programação
